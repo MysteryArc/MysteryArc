@@ -5,13 +5,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryArc&theme=buefy" />
 </a>
 
->And what, must we give it return?
+>So far so good 🙃
 >
-- 👋 Hi, I’m @MysteryArc
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Math
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m **@MysteryArc**
+- 👀 I’m interested in `Valorant`
+- 🌱 I’m currently learning `TypeScripe`
+- 📫 How to reach me ~~`No way`~~
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MysteryArc&theme=buefy&show_icons=true" />
