@@ -1,5 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MysteryArc&theme=buefy&show_icons=true" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryArc&theme=buefy" />
 </a>
 
 - 👋 Hi, I’m @MysteryArc
@@ -8,8 +8,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryArc&theme=buefy" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MysteryArc&theme=buefy&show_icons=true" />
 </a>
 
 <!---
