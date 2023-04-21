@@ -11,7 +11,7 @@
 - 👀 I’m interested in `Valorant`
 - 🌱 I’m currently learning `TypeScripe`
 - 📫 How to reach me ~~`No way`~~
-- 💔 My Fist Love 'Xi'
+- 💔 My Fist Love `Xi`
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MysteryArc&theme=buefy&show_icons=true" />
