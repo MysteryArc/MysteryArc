@@ -5,7 +5,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryArc&theme=buefy" />
 </a>
 
->So far so good 🙃
+> 半生奔波欲闻名天下 回首间已无人相伴 🧋
 >
 - 👋 Hi, I’m **@MysteryArc**
 - 👀 I’m interested in `Valorant`
