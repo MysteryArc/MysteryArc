@@ -5,7 +5,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryArc&theme=buefy" />
 </a>
 
-> 半生奔波欲闻名天下 回首间已无人相伴 🧋
+> 黄昏时分无故人 🧋
 >
 - 👋 Hi, I’m **@MysteryArc**
 - 👀 I’m interested in `Valorant`
