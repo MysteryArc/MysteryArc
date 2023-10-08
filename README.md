@@ -8,8 +8,8 @@
 > 黄昏时分无故人 🧋
 >
 - 👋 Hi, I’m **@MysteryArc**
-- 👀 I’m interested in `Valorant`
-- 🌱 I’m currently learning `TypeScripe`
+- 👀 I’m interested in `Genshin`
+- 🌱 I’m currently learning `Pytorch`
 - 📫 How to reach me ~~`No way`~~
 - 💔 My Fist Love ~~`Xi`~~
 
