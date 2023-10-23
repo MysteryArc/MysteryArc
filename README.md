@@ -10,7 +10,7 @@
 - 👋 Hi, I’m **@MysteryArc**
 - 👀 I’m interested in `AI singer`
 - 🌱 I’m currently learning `Pytorch`
-- 📫 How to reach me *Wuhan Institude of Technology* **[@WIT](https://www.wit.edu.cn/)**.[**cs**](cs.wit.edu.cn)
+- 📫 How to reach me *Wuhan Institude of Technology* **[@WIT](https://www.wit.edu.cn/)**.[**cs**](https://cs.wit.edu.cn)
 - 💔 My Fist Love ~~`Xi`~~
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
