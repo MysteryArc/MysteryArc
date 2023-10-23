@@ -1,5 +1,5 @@
 
-# ```#include<MysteryArc>```
+# ```#include<MysteryArc.h>```
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryArc&theme=buefy" />
@@ -8,9 +8,9 @@
 > 黄昏时分无故人 🧋
 >
 - 👋 Hi, I’m **@MysteryArc**
-- 👀 I’m interested in `Genshin`
+- 👀 I’m interested in `AI singer`
 - 🌱 I’m currently learning `Pytorch`
-- 📫 How to reach me ~~`No way`~~
+- 📫 How to reach me *Wuhan Institude of Technology* **@WIT**
 - 💔 My Fist Love ~~`Xi`~~
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
