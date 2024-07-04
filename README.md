@@ -8,7 +8,7 @@
 > 黄昏时分无故人 🧋
 >
 - 👋 Hi, I’m **@MysteryArc**
-- 👀 I’m interested in `AI singer`
+- 👀 I’m interested in `Remote Sensing`
 - 🌱 I’m currently learning `Pytorch`
 - 📫 How to reach me *Wuhan Institude of Technology* **[@WIT](https://www.wit.edu.cn/)**.[**cs**](https://cs.wit.edu.cn)
 - 💔 My Fist Love ~~`Xi`~~
