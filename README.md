@@ -17,6 +17,8 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MysteryArc&theme=buefy&show_icons=true" />
 </a>
 
+### *Should old acquaintance be forgot, and never brought to mind?* <br> *Should old acquaintance be forgot, and auld lang syne?*
+
 <!---
 MysteryArc/MysteryArc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
